@@ -1,0 +1,3 @@
+[submodule "huc_archive_docs"]
+	path = huc_archive_docs
+	url = https://github.com/amaperezmartin/huc_archive_docs.git
